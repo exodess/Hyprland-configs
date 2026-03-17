@@ -1,4 +1,11 @@
-# linux_config
-".config" directory of GNU/Linux system
+# My hyprland configuration
 
-The configurations for the tools I use on LInux are stored here.
+Необходимые конфигурационные файлы для настройки графического окружения
+
+## Какие настройки сохранены
+- *hypr/* - настройка рабочего стола (hyrpland.conf) и заблокированного окна (hyprlock.conf)
+- *micro/* - конфигурация редактора micro, которым я пользуюсь на данный момент
+- *nvim/* - конфигурация редактора neovim
+- *rofi/* - конфигурация утилиты rofi, которая отвечает за открытие приложений через окно поиска 
+- *waybar/* - статус-бар, или панель задач, н
+- *wofi/* - то же, что и rofi 
